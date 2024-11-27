@@ -1,6 +1,6 @@
 // 알고리즘 - 이진 탐색
-
-public class Main {
+// 변경 한번 할게~~~
+class Main {
     // 반복문 구조
     public static int binarySearch(int arr[], int target) {
         int left = 0;
@@ -33,6 +33,6 @@ public class Main {
         System.out.println("Index: " + binarySearch(arr, 30));
         System.out.println();
 
-        System.out.println("Index: " + bi narySearch2(arr, 30, 0, arr.length - 1));
+        System.out.println("Index: " + binarySearch2(arr, 30, 0, arr.length - 1));
     }
 }
