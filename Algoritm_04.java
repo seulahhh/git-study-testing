@@ -40,3 +40,4 @@ class Main {
         System.out.println("Index: " + binarySearch2(arr, 30, 0, arr.length - 1));
     }
 }
+// 이 부분에 충돌을 만들거야!
