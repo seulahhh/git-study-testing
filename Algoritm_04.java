@@ -43,7 +43,7 @@ class Main {
     }
 
     public static void testMethod() {
-        System.out.println("나는 nf고 bf한테 pull할거야");
+        System.out.println("");
     }
 }
 
