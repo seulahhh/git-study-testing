@@ -39,4 +39,10 @@ class Main {
 
         System.out.println("Index: " + binarySearch2(arr, 30, 0, arr.length - 1));
     }
+
+    public static void testMethod() {
+        System.out.println("이 부분 내가 만들었어! 난 bug_fix야");
+    }
 }
+
+
