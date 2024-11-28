@@ -43,7 +43,7 @@ class Main {
     }
 
     public static void testMethod() {
-        System.out.println("이 부분 내가 만들었어! 난 bug_fix야");
+        System.out.println("new_featcher에서 수정했다. ");
     }
 }
 
