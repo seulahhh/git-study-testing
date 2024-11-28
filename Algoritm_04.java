@@ -2,6 +2,7 @@
 // 변경 한번 할게~~~
 // 두번째 변경 할게~~
 // custom 에서 변경
+// Main 은 그대로 진행중
 class Main {
     // 반복문 구조
     public static int binarySearch(int arr[], int target) {
