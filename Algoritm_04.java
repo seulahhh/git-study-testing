@@ -3,6 +3,8 @@
 // 두번째 변경 할게~~
 // custom 에서 변경
 // Main 은 계속적으로 새 브랜치 영향ㅇ 없이 진행
+// Main 은 그대로 진행중
+// 새로운 기능입니다~
 class Main {
     // 반복문 구조
     public static int binarySearch(int arr[], int target) {
